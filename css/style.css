@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #4aa5f0;
+}
+
+div#contenu {
+    margin: 50px;
+    float:left;
+    width:100%;
+    height:400px;
+    font-size-adjust: relative;
+}
+
+div#text_left {
+	width:50%;
+	height:200px;
+}
+
+div#text_right {
+	width:50%;
+	height:200px;
+}
