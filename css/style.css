@@ -13,6 +13,10 @@ h1 {
     color: #4aa5f0;
 }
 
+.top_header {
+    float: center;
+}
+
 .content {
     float:left;
     width:100%;
@@ -20,22 +24,22 @@ h1 {
     font-size-adjust: relative;
 }
 
-.colomnleft {
+.colomn_left {
     float: left;
     width: 50%;
 }
 
-.colomnright {
+.colomn_right {
     float: right;
     width: 50%;
 }
 
-.workleft {
+.work_left {
     float: left;
     width: 75%;
 }
 
-.workright {
+.work_right {
     float: right;
     width: 40%;
 }
